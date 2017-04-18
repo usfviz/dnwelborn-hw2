@@ -1,4 +1,4 @@
-setwd("~/Documents/msan622_data_visualization/hw/hw2/untitled folder")
+#setwd("~/Documents/msan622_data_visualization/hw/hw2/untitled folder")
 cat('\014')
 rm(list = ls())
 #dev.off()
